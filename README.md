@@ -1,4 +1,4 @@
-# ThermoCycleSim
+# Thermodinamics Cycle Simulator
 
 ## Overview
 
